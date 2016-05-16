@@ -1,0 +1,21 @@
+[user]
+	name = nebtrx
+	email = neb.trx@gmail.com
+[credential]
+	helper = osxkeychain
+[rerere]
+	enabled = true
+[core]
+	editor = nano
+[push]
+	default = simple
+[pull]
+	default = current
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	st = status
+	l  = log --oneline --decorate
+[color]
+  ui = true
