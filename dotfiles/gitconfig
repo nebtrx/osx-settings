@@ -17,5 +17,6 @@
 	br = branch
 	st = status
 	l  = log --oneline --decorate
+	ct = commit -m
 [color]
   ui = true
